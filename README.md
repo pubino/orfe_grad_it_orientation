@@ -28,8 +28,7 @@
 	* [VPN][16]
 
 * [Backup][18]
-		* “If you are a student and have information needed for completion of your University academics, you are responsible for assuring that adequate and appropriate backup of the information is maintained.”
-		* 
+
 * Computation
 	* [University Research Computing][19]
 		* [Adroit][21]
