@@ -1,8 +1,8 @@
 # ORFE Graduate IT Orientation
 
 * [University Acceptable Use Policy for IT][1]
-* [Wireless Networks][4]
-	* eduroam
+* Wireless Networks
+	* [eduroam][4]
 	* [puvisitor][5]
 * [Wired Connections][2]
 * Printing
