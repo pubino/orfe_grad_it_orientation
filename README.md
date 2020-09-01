@@ -22,13 +22,15 @@
 	* [Microsoft Office 365 ProPlus][10]
 	* [Matlab][11]
 	* [Mathematica][12]
-	* [WinEDT][13]
+	* [MikTeX][29], [MacTeX][30], [texpad][31], [Overleaf][32]
+	* [Anaconda][33]
 	* [Dropbox][14]
 	* [Google Drive][15]
 	* [VPN][16]
 
 * [Backup][18]
-
+		* “If you are a student and have information needed for completion of your University academics, you are responsible for assuring that adequate and appropriate backup of the information is maintained.”
+		* 
 * Computation
 	* [University Research Computing][19]
 		* [Adroit][21]
@@ -83,3 +85,8 @@
 [26]: <https://orfe.princeton.edu/forms/equipment-loan>
 [27]: <https://www.princeton.edu/researchcomputing/services/github-form-new>
 [28]: <https://pages.github.com>
+[29]: <https://miktex.org>
+[30]: <https://tug.org/mactex>
+[31]: <https://www.texpad.com/ios>
+[32]: <https://overleaf.com>
+[33]: <https://www.anaconda.com>
